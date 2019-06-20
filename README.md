@@ -4,7 +4,7 @@ The project objective is to provide a visual way for a person to gauge the safet
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. (**NOTE: Due to GT Course restriction, few details will be removed**)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. (**NOTE: Due to GT Project restriction, few details will be removed**)
 
 ### Prerequisites
 
